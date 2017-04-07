@@ -1,120 +1,120 @@
 <svg height="1870" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="1870" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-07 04:54:16 +0000  2881569 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-07 04:54:16 +0000     1289 byte  LICENSE.txt</tspan>
-<tspan x="10" y="58">  2.  2017-04-07 04:54:16 +0000     3689 byte  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-07 04:54:16 +0000      927 byte  cli.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-07 04:54:16 +0000     3689 byte  dist/README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-07 04:54:16 +0000     3043 byte  dist/contrib/auto-render.min.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-07 04:54:16 +0000    71656 byte  dist/fonts/KaTeX_AMS-Regular.eot</tspan>
-<tspan x="10" y="138">  7.  2017-04-07 04:54:16 +0000    71428 byte  dist/fonts/KaTeX_AMS-Regular.ttf</tspan>
-<tspan x="10" y="154">  8.  2017-04-07 04:54:16 +0000    40200 byte  dist/fonts/KaTeX_AMS-Regular.woff</tspan>
-<tspan x="10" y="170">  9.  2017-04-07 04:54:16 +0000    33188 byte  dist/fonts/KaTeX_AMS-Regular.woff2</tspan>
-<tspan x="10" y="186"> 10.  2017-04-07 04:54:16 +0000    19836 byte  dist/fonts/KaTeX_Caligraphic-Bold.eot</tspan>
-<tspan x="10" y="202"> 11.  2017-04-07 04:54:16 +0000    19588 byte  dist/fonts/KaTeX_Caligraphic-Bold.ttf</tspan>
-<tspan x="10" y="218"> 12.  2017-04-07 04:54:16 +0000    12136 byte  dist/fonts/KaTeX_Caligraphic-Bold.woff</tspan>
-<tspan x="10" y="234"> 13.  2017-04-07 04:54:16 +0000    10604 byte  dist/fonts/KaTeX_Caligraphic-Bold.woff2</tspan>
-<tspan x="10" y="250"> 14.  2017-04-07 04:54:16 +0000    19220 byte  dist/fonts/KaTeX_Caligraphic-Regular.eot</tspan>
-<tspan x="10" y="266"> 15.  2017-04-07 04:54:16 +0000    18960 byte  dist/fonts/KaTeX_Caligraphic-Regular.ttf</tspan>
-<tspan x="10" y="282"> 16.  2017-04-07 04:54:16 +0000    11868 byte  dist/fonts/KaTeX_Caligraphic-Regular.woff</tspan>
-<tspan x="10" y="298"> 17.  2017-04-07 04:54:16 +0000    10396 byte  dist/fonts/KaTeX_Caligraphic-Regular.woff2</tspan>
-<tspan x="10" y="314"> 18.  2017-04-07 04:54:16 +0000    36200 byte  dist/fonts/KaTeX_Fraktur-Bold.eot</tspan>
-<tspan x="10" y="330"> 19.  2017-04-07 04:54:16 +0000    35968 byte  dist/fonts/KaTeX_Fraktur-Bold.ttf</tspan>
-<tspan x="10" y="346"> 20.  2017-04-07 04:54:16 +0000    23388 byte  dist/fonts/KaTeX_Fraktur-Bold.woff</tspan>
-<tspan x="10" y="362"> 21.  2017-04-07 04:54:16 +0000    20476 byte  dist/fonts/KaTeX_Fraktur-Bold.woff2</tspan>
-<tspan x="10" y="378"> 22.  2017-04-07 04:54:16 +0000    34896 byte  dist/fonts/KaTeX_Fraktur-Regular.eot</tspan>
-<tspan x="10" y="394"> 23.  2017-04-07 04:54:16 +0000    34652 byte  dist/fonts/KaTeX_Fraktur-Regular.ttf</tspan>
-<tspan x="10" y="410"> 24.  2017-04-07 04:54:16 +0000    22844 byte  dist/fonts/KaTeX_Fraktur-Regular.woff</tspan>
-<tspan x="10" y="426"> 25.  2017-04-07 04:54:16 +0000    19868 byte  dist/fonts/KaTeX_Fraktur-Regular.woff2</tspan>
-<tspan x="10" y="442"> 26.  2017-04-07 04:54:16 +0000    60688 byte  dist/fonts/KaTeX_Main-Bold.eot</tspan>
-<tspan x="10" y="458"> 27.  2017-04-07 04:54:16 +0000    60468 byte  dist/fonts/KaTeX_Main-Bold.ttf</tspan>
-<tspan x="10" y="474"> 28.  2017-04-07 04:54:16 +0000    35480 byte  dist/fonts/KaTeX_Main-Bold.woff</tspan>
-<tspan x="10" y="490"> 29.  2017-04-07 04:54:16 +0000    29492 byte  dist/fonts/KaTeX_Main-Bold.woff2</tspan>
-<tspan x="10" y="506"> 30.  2017-04-07 04:54:16 +0000    44132 byte  dist/fonts/KaTeX_Main-Italic.eot</tspan>
-<tspan x="10" y="522"> 31.  2017-04-07 04:54:16 +0000    43904 byte  dist/fonts/KaTeX_Main-Italic.ttf</tspan>
-<tspan x="10" y="538"> 32.  2017-04-07 04:54:16 +0000    24880 byte  dist/fonts/KaTeX_Main-Italic.woff</tspan>
-<tspan x="10" y="554"> 33.  2017-04-07 04:54:16 +0000    21032 byte  dist/fonts/KaTeX_Main-Italic.woff2</tspan>
-<tspan x="10" y="570"> 34.  2017-04-07 04:54:16 +0000    68228 byte  dist/fonts/KaTeX_Main-Regular.eot</tspan>
-<tspan x="10" y="586"> 35.  2017-04-07 04:54:16 +0000    67996 byte  dist/fonts/KaTeX_Main-Regular.ttf</tspan>
-<tspan x="10" y="602"> 36.  2017-04-07 04:54:16 +0000    37620 byte  dist/fonts/KaTeX_Main-Regular.woff</tspan>
-<tspan x="10" y="618"> 37.  2017-04-07 04:54:16 +0000    31220 byte  dist/fonts/KaTeX_Main-Regular.woff2</tspan>
-<tspan x="10" y="634"> 38.  2017-04-07 04:54:16 +0000    39990 byte  dist/fonts/KaTeX_Math-BoldItalic.eot</tspan>
-<tspan x="10" y="650"> 39.  2017-04-07 04:54:16 +0000    39744 byte  dist/fonts/KaTeX_Math-BoldItalic.ttf</tspan>
-<tspan x="10" y="666"> 40.  2017-04-07 04:54:16 +0000    23192 byte  dist/fonts/KaTeX_Math-BoldItalic.woff</tspan>
-<tspan x="10" y="682"> 41.  2017-04-07 04:54:16 +0000    20036 byte  dist/fonts/KaTeX_Math-BoldItalic.woff2</tspan>
-<tspan x="10" y="698"> 42.  2017-04-07 04:54:16 +0000    41676 byte  dist/fonts/KaTeX_Math-Italic.eot</tspan>
-<tspan x="10" y="714"> 43.  2017-04-07 04:54:16 +0000    41448 byte  dist/fonts/KaTeX_Math-Italic.ttf</tspan>
-<tspan x="10" y="730"> 44.  2017-04-07 04:54:16 +0000    23820 byte  dist/fonts/KaTeX_Math-Italic.woff</tspan>
-<tspan x="10" y="746"> 45.  2017-04-07 04:54:16 +0000    20432 byte  dist/fonts/KaTeX_Math-Italic.woff2</tspan>
-<tspan x="10" y="762"> 46.  2017-04-07 04:54:16 +0000    41536 byte  dist/fonts/KaTeX_Math-Regular.eot</tspan>
-<tspan x="10" y="778"> 47.  2017-04-07 04:54:16 +0000    41304 byte  dist/fonts/KaTeX_Math-Regular.ttf</tspan>
-<tspan x="10" y="794"> 48.  2017-04-07 04:54:16 +0000    23712 byte  dist/fonts/KaTeX_Math-Regular.woff</tspan>
-<tspan x="10" y="810"> 49.  2017-04-07 04:54:16 +0000    20344 byte  dist/fonts/KaTeX_Math-Regular.woff2</tspan>
-<tspan x="10" y="826"> 50.  2017-04-07 04:54:16 +0000    34204 byte  dist/fonts/KaTeX_SansSerif-Bold.eot</tspan>
-<tspan x="10" y="842"> 51.  2017-04-07 04:54:16 +0000    33964 byte  dist/fonts/KaTeX_SansSerif-Bold.ttf</tspan>
-<tspan x="10" y="858"> 52.  2017-04-07 04:54:16 +0000    19196 byte  dist/fonts/KaTeX_SansSerif-Bold.woff</tspan>
-<tspan x="10" y="874"> 53.  2017-04-07 04:54:16 +0000    16020 byte  dist/fonts/KaTeX_SansSerif-Bold.woff2</tspan>
-<tspan x="10" y="890"> 54.  2017-04-07 04:54:16 +0000    31320 byte  dist/fonts/KaTeX_SansSerif-Italic.eot</tspan>
-<tspan x="10" y="906"> 55.  2017-04-07 04:54:16 +0000    31072 byte  dist/fonts/KaTeX_SansSerif-Italic.ttf</tspan>
-<tspan x="10" y="922"> 56.  2017-04-07 04:54:16 +0000    18080 byte  dist/fonts/KaTeX_SansSerif-Italic.woff</tspan>
-<tspan x="10" y="938"> 57.  2017-04-07 04:54:16 +0000    15152 byte  dist/fonts/KaTeX_SansSerif-Italic.woff2</tspan>
-<tspan x="10" y="954"> 58.  2017-04-07 04:54:16 +0000    30212 byte  dist/fonts/KaTeX_SansSerif-Regular.eot</tspan>
-<tspan x="10" y="970"> 59.  2017-04-07 04:54:16 +0000    29960 byte  dist/fonts/KaTeX_SansSerif-Regular.ttf</tspan>
-<tspan x="10" y="986"> 60.  2017-04-07 04:54:16 +0000    16744 byte  dist/fonts/KaTeX_SansSerif-Regular.woff</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-07 04:54:16 +0000    13908 byte  dist/fonts/KaTeX_SansSerif-Regular.woff2</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-07 04:54:16 +0000    25104 byte  dist/fonts/KaTeX_Script-Regular.eot</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-07 04:54:16 +0000    24864 byte  dist/fonts/KaTeX_Script-Regular.ttf</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-07 04:54:16 +0000    13856 byte  dist/fonts/KaTeX_Script-Regular.woff</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-07 04:54:16 +0000    12276 byte  dist/fonts/KaTeX_Script-Regular.woff2</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-07 04:54:16 +0000    13408 byte  dist/fonts/KaTeX_Size1-Regular.eot</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-07 04:54:16 +0000    13172 byte  dist/fonts/KaTeX_Size1-Regular.ttf</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-07 04:54:16 +0000     6980 byte  dist/fonts/KaTeX_Size1-Regular.woff</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-07 04:54:16 +0000     5820 byte  dist/fonts/KaTeX_Size1-Regular.woff2</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-07 04:54:16 +0000    12648 byte  dist/fonts/KaTeX_Size2-Regular.eot</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-07 04:54:16 +0000    12412 byte  dist/fonts/KaTeX_Size2-Regular.ttf</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-07 04:54:16 +0000     6684 byte  dist/fonts/KaTeX_Size2-Regular.woff</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-07 04:54:16 +0000     5560 byte  dist/fonts/KaTeX_Size2-Regular.woff2</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-07 04:54:16 +0000     8596 byte  dist/fonts/KaTeX_Size3-Regular.eot</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-07 04:54:16 +0000     8360 byte  dist/fonts/KaTeX_Size3-Regular.ttf</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-07 04:54:16 +0000     4776 byte  dist/fonts/KaTeX_Size3-Regular.woff</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-07 04:54:16 +0000     3856 byte  dist/fonts/KaTeX_Size3-Regular.woff2</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-07 04:54:16 +0000    11520 byte  dist/fonts/KaTeX_Size4-Regular.eot</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-07 04:54:16 +0000    11284 byte  dist/fonts/KaTeX_Size4-Regular.ttf</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-07 04:54:16 +0000     6456 byte  dist/fonts/KaTeX_Size4-Regular.woff</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-07 04:54:16 +0000     5172 byte  dist/fonts/KaTeX_Size4-Regular.woff2</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-07 04:54:16 +0000    35784 byte  dist/fonts/KaTeX_Typewriter-Regular.eot</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-07 04:54:16 +0000    35528 byte  dist/fonts/KaTeX_Typewriter-Regular.ttf</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-07 04:54:16 +0000    20712 byte  dist/fonts/KaTeX_Typewriter-Regular.woff</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-07 04:54:16 +0000    17344 byte  dist/fonts/KaTeX_Typewriter-Regular.woff2</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-07 04:54:16 +0000    25092 byte  dist/katex.css</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-07 04:54:16 +0000   307749 byte  dist/katex.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-07 04:54:16 +0000    21339 byte  dist/katex.min.css</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-07 04:54:16 +0000   126576 byte  dist/katex.min.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-07 04:54:16 +0000     2222 byte  katex.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-07 04:54:16 +0000     2891 byte  package.json</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-07 04:54:16 +0000     3899 byte  src/Lexer.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-07 04:54:16 +0000     2178 byte  src/MacroExpander.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-07 04:54:16 +0000     4917 byte  src/Options.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-07 04:54:16 +0000     2045 byte  src/ParseError.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-07 04:54:16 +0000    28094 byte  src/Parser.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-07 04:54:16 +0000      823 byte  src/Settings.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-07 04:54:16 +0000     3737 byte  src/Style.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-07 04:54:16 +0000    15414 byte  src/buildCommon.js</tspan>
-<tspan x="10" y="1626">100.  2017-04-07 04:54:16 +0000    54633 byte  src/buildHTML.js</tspan>
-<tspan x="10" y="1642">101.  2017-04-07 04:54:16 +0000    16094 byte  src/buildMathML.js</tspan>
-<tspan x="10" y="1658">102.  2017-04-07 04:54:16 +0000     1088 byte  src/buildTree.js</tspan>
-<tspan x="10" y="1674">103.  2017-04-07 04:54:16 +0000    19394 byte  src/delimiter.js</tspan>
-<tspan x="10" y="1690">104.  2017-04-07 04:54:16 +0000     9339 byte  src/domTree.js</tspan>
-<tspan x="10" y="1706">105.  2017-04-07 04:54:16 +0000     6821 byte  src/environments.js</tspan>
-<tspan x="10" y="1722">106.  2017-04-07 04:54:16 +0000     7250 byte  src/fontMetrics.js</tspan>
-<tspan x="10" y="1738">107.  2017-04-07 04:54:16 +0000    67265 byte  src/fontMetricsData.js</tspan>
-<tspan x="10" y="1754">108.  2017-04-07 04:54:16 +0000    19092 byte  src/functions.js</tspan>
-<tspan x="10" y="1770">109.  2017-04-07 04:54:16 +0000     2693 byte  src/mathMLTree.js</tspan>
-<tspan x="10" y="1786">110.  2017-04-07 04:54:16 +0000     1260 byte  src/parseData.js</tspan>
-<tspan x="10" y="1802">111.  2017-04-07 04:54:16 +0000      531 byte  src/parseTree.js</tspan>
-<tspan x="10" y="1818">112.  2017-04-07 04:54:16 +0000    31996 byte  src/symbols.js</tspan>
-<tspan x="10" y="1834">113.  2017-04-07 04:54:16 +0000      422 byte  src/unicodeRegexes.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-07 04:54:16 +0000     2328 byte  src/utils.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-07 04:55:53 +0000  2881569 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-07 04:55:53 +0000     1289 byte  LICENSE.txt</tspan>
+<tspan x="10" y="58">  2.  2017-04-07 04:55:53 +0000     3689 byte  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-07 04:55:53 +0000      927 byte  cli.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-07 04:55:53 +0000     3689 byte  dist/README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-07 04:55:53 +0000     3043 byte  dist/contrib/auto-render.min.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-07 04:55:53 +0000    71656 byte  dist/fonts/KaTeX_AMS-Regular.eot</tspan>
+<tspan x="10" y="138">  7.  2017-04-07 04:55:53 +0000    71428 byte  dist/fonts/KaTeX_AMS-Regular.ttf</tspan>
+<tspan x="10" y="154">  8.  2017-04-07 04:55:53 +0000    40200 byte  dist/fonts/KaTeX_AMS-Regular.woff</tspan>
+<tspan x="10" y="170">  9.  2017-04-07 04:55:53 +0000    33188 byte  dist/fonts/KaTeX_AMS-Regular.woff2</tspan>
+<tspan x="10" y="186"> 10.  2017-04-07 04:55:53 +0000    19836 byte  dist/fonts/KaTeX_Caligraphic-Bold.eot</tspan>
+<tspan x="10" y="202"> 11.  2017-04-07 04:55:53 +0000    19588 byte  dist/fonts/KaTeX_Caligraphic-Bold.ttf</tspan>
+<tspan x="10" y="218"> 12.  2017-04-07 04:55:53 +0000    12136 byte  dist/fonts/KaTeX_Caligraphic-Bold.woff</tspan>
+<tspan x="10" y="234"> 13.  2017-04-07 04:55:53 +0000    10604 byte  dist/fonts/KaTeX_Caligraphic-Bold.woff2</tspan>
+<tspan x="10" y="250"> 14.  2017-04-07 04:55:53 +0000    19220 byte  dist/fonts/KaTeX_Caligraphic-Regular.eot</tspan>
+<tspan x="10" y="266"> 15.  2017-04-07 04:55:53 +0000    18960 byte  dist/fonts/KaTeX_Caligraphic-Regular.ttf</tspan>
+<tspan x="10" y="282"> 16.  2017-04-07 04:55:53 +0000    11868 byte  dist/fonts/KaTeX_Caligraphic-Regular.woff</tspan>
+<tspan x="10" y="298"> 17.  2017-04-07 04:55:53 +0000    10396 byte  dist/fonts/KaTeX_Caligraphic-Regular.woff2</tspan>
+<tspan x="10" y="314"> 18.  2017-04-07 04:55:53 +0000    36200 byte  dist/fonts/KaTeX_Fraktur-Bold.eot</tspan>
+<tspan x="10" y="330"> 19.  2017-04-07 04:55:53 +0000    35968 byte  dist/fonts/KaTeX_Fraktur-Bold.ttf</tspan>
+<tspan x="10" y="346"> 20.  2017-04-07 04:55:53 +0000    23388 byte  dist/fonts/KaTeX_Fraktur-Bold.woff</tspan>
+<tspan x="10" y="362"> 21.  2017-04-07 04:55:53 +0000    20476 byte  dist/fonts/KaTeX_Fraktur-Bold.woff2</tspan>
+<tspan x="10" y="378"> 22.  2017-04-07 04:55:53 +0000    34896 byte  dist/fonts/KaTeX_Fraktur-Regular.eot</tspan>
+<tspan x="10" y="394"> 23.  2017-04-07 04:55:53 +0000    34652 byte  dist/fonts/KaTeX_Fraktur-Regular.ttf</tspan>
+<tspan x="10" y="410"> 24.  2017-04-07 04:55:53 +0000    22844 byte  dist/fonts/KaTeX_Fraktur-Regular.woff</tspan>
+<tspan x="10" y="426"> 25.  2017-04-07 04:55:53 +0000    19868 byte  dist/fonts/KaTeX_Fraktur-Regular.woff2</tspan>
+<tspan x="10" y="442"> 26.  2017-04-07 04:55:53 +0000    60688 byte  dist/fonts/KaTeX_Main-Bold.eot</tspan>
+<tspan x="10" y="458"> 27.  2017-04-07 04:55:53 +0000    60468 byte  dist/fonts/KaTeX_Main-Bold.ttf</tspan>
+<tspan x="10" y="474"> 28.  2017-04-07 04:55:53 +0000    35480 byte  dist/fonts/KaTeX_Main-Bold.woff</tspan>
+<tspan x="10" y="490"> 29.  2017-04-07 04:55:53 +0000    29492 byte  dist/fonts/KaTeX_Main-Bold.woff2</tspan>
+<tspan x="10" y="506"> 30.  2017-04-07 04:55:53 +0000    44132 byte  dist/fonts/KaTeX_Main-Italic.eot</tspan>
+<tspan x="10" y="522"> 31.  2017-04-07 04:55:53 +0000    43904 byte  dist/fonts/KaTeX_Main-Italic.ttf</tspan>
+<tspan x="10" y="538"> 32.  2017-04-07 04:55:53 +0000    24880 byte  dist/fonts/KaTeX_Main-Italic.woff</tspan>
+<tspan x="10" y="554"> 33.  2017-04-07 04:55:53 +0000    21032 byte  dist/fonts/KaTeX_Main-Italic.woff2</tspan>
+<tspan x="10" y="570"> 34.  2017-04-07 04:55:53 +0000    68228 byte  dist/fonts/KaTeX_Main-Regular.eot</tspan>
+<tspan x="10" y="586"> 35.  2017-04-07 04:55:53 +0000    67996 byte  dist/fonts/KaTeX_Main-Regular.ttf</tspan>
+<tspan x="10" y="602"> 36.  2017-04-07 04:55:53 +0000    37620 byte  dist/fonts/KaTeX_Main-Regular.woff</tspan>
+<tspan x="10" y="618"> 37.  2017-04-07 04:55:53 +0000    31220 byte  dist/fonts/KaTeX_Main-Regular.woff2</tspan>
+<tspan x="10" y="634"> 38.  2017-04-07 04:55:53 +0000    39990 byte  dist/fonts/KaTeX_Math-BoldItalic.eot</tspan>
+<tspan x="10" y="650"> 39.  2017-04-07 04:55:53 +0000    39744 byte  dist/fonts/KaTeX_Math-BoldItalic.ttf</tspan>
+<tspan x="10" y="666"> 40.  2017-04-07 04:55:53 +0000    23192 byte  dist/fonts/KaTeX_Math-BoldItalic.woff</tspan>
+<tspan x="10" y="682"> 41.  2017-04-07 04:55:53 +0000    20036 byte  dist/fonts/KaTeX_Math-BoldItalic.woff2</tspan>
+<tspan x="10" y="698"> 42.  2017-04-07 04:55:53 +0000    41676 byte  dist/fonts/KaTeX_Math-Italic.eot</tspan>
+<tspan x="10" y="714"> 43.  2017-04-07 04:55:53 +0000    41448 byte  dist/fonts/KaTeX_Math-Italic.ttf</tspan>
+<tspan x="10" y="730"> 44.  2017-04-07 04:55:53 +0000    23820 byte  dist/fonts/KaTeX_Math-Italic.woff</tspan>
+<tspan x="10" y="746"> 45.  2017-04-07 04:55:53 +0000    20432 byte  dist/fonts/KaTeX_Math-Italic.woff2</tspan>
+<tspan x="10" y="762"> 46.  2017-04-07 04:55:53 +0000    41536 byte  dist/fonts/KaTeX_Math-Regular.eot</tspan>
+<tspan x="10" y="778"> 47.  2017-04-07 04:55:53 +0000    41304 byte  dist/fonts/KaTeX_Math-Regular.ttf</tspan>
+<tspan x="10" y="794"> 48.  2017-04-07 04:55:53 +0000    23712 byte  dist/fonts/KaTeX_Math-Regular.woff</tspan>
+<tspan x="10" y="810"> 49.  2017-04-07 04:55:53 +0000    20344 byte  dist/fonts/KaTeX_Math-Regular.woff2</tspan>
+<tspan x="10" y="826"> 50.  2017-04-07 04:55:53 +0000    34204 byte  dist/fonts/KaTeX_SansSerif-Bold.eot</tspan>
+<tspan x="10" y="842"> 51.  2017-04-07 04:55:53 +0000    33964 byte  dist/fonts/KaTeX_SansSerif-Bold.ttf</tspan>
+<tspan x="10" y="858"> 52.  2017-04-07 04:55:53 +0000    19196 byte  dist/fonts/KaTeX_SansSerif-Bold.woff</tspan>
+<tspan x="10" y="874"> 53.  2017-04-07 04:55:53 +0000    16020 byte  dist/fonts/KaTeX_SansSerif-Bold.woff2</tspan>
+<tspan x="10" y="890"> 54.  2017-04-07 04:55:53 +0000    31320 byte  dist/fonts/KaTeX_SansSerif-Italic.eot</tspan>
+<tspan x="10" y="906"> 55.  2017-04-07 04:55:53 +0000    31072 byte  dist/fonts/KaTeX_SansSerif-Italic.ttf</tspan>
+<tspan x="10" y="922"> 56.  2017-04-07 04:55:53 +0000    18080 byte  dist/fonts/KaTeX_SansSerif-Italic.woff</tspan>
+<tspan x="10" y="938"> 57.  2017-04-07 04:55:53 +0000    15152 byte  dist/fonts/KaTeX_SansSerif-Italic.woff2</tspan>
+<tspan x="10" y="954"> 58.  2017-04-07 04:55:53 +0000    30212 byte  dist/fonts/KaTeX_SansSerif-Regular.eot</tspan>
+<tspan x="10" y="970"> 59.  2017-04-07 04:55:53 +0000    29960 byte  dist/fonts/KaTeX_SansSerif-Regular.ttf</tspan>
+<tspan x="10" y="986"> 60.  2017-04-07 04:55:53 +0000    16744 byte  dist/fonts/KaTeX_SansSerif-Regular.woff</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-07 04:55:53 +0000    13908 byte  dist/fonts/KaTeX_SansSerif-Regular.woff2</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-07 04:55:53 +0000    25104 byte  dist/fonts/KaTeX_Script-Regular.eot</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-07 04:55:53 +0000    24864 byte  dist/fonts/KaTeX_Script-Regular.ttf</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-07 04:55:53 +0000    13856 byte  dist/fonts/KaTeX_Script-Regular.woff</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-07 04:55:53 +0000    12276 byte  dist/fonts/KaTeX_Script-Regular.woff2</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-07 04:55:53 +0000    13408 byte  dist/fonts/KaTeX_Size1-Regular.eot</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-07 04:55:53 +0000    13172 byte  dist/fonts/KaTeX_Size1-Regular.ttf</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-07 04:55:53 +0000     6980 byte  dist/fonts/KaTeX_Size1-Regular.woff</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-07 04:55:53 +0000     5820 byte  dist/fonts/KaTeX_Size1-Regular.woff2</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-07 04:55:53 +0000    12648 byte  dist/fonts/KaTeX_Size2-Regular.eot</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-07 04:55:53 +0000    12412 byte  dist/fonts/KaTeX_Size2-Regular.ttf</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-07 04:55:53 +0000     6684 byte  dist/fonts/KaTeX_Size2-Regular.woff</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-07 04:55:53 +0000     5560 byte  dist/fonts/KaTeX_Size2-Regular.woff2</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-07 04:55:53 +0000     8596 byte  dist/fonts/KaTeX_Size3-Regular.eot</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-07 04:55:53 +0000     8360 byte  dist/fonts/KaTeX_Size3-Regular.ttf</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-07 04:55:53 +0000     4776 byte  dist/fonts/KaTeX_Size3-Regular.woff</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-07 04:55:53 +0000     3856 byte  dist/fonts/KaTeX_Size3-Regular.woff2</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-07 04:55:53 +0000    11520 byte  dist/fonts/KaTeX_Size4-Regular.eot</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-07 04:55:53 +0000    11284 byte  dist/fonts/KaTeX_Size4-Regular.ttf</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-07 04:55:53 +0000     6456 byte  dist/fonts/KaTeX_Size4-Regular.woff</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-07 04:55:53 +0000     5172 byte  dist/fonts/KaTeX_Size4-Regular.woff2</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-07 04:55:53 +0000    35784 byte  dist/fonts/KaTeX_Typewriter-Regular.eot</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-07 04:55:53 +0000    35528 byte  dist/fonts/KaTeX_Typewriter-Regular.ttf</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-07 04:55:53 +0000    20712 byte  dist/fonts/KaTeX_Typewriter-Regular.woff</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-07 04:55:53 +0000    17344 byte  dist/fonts/KaTeX_Typewriter-Regular.woff2</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-07 04:55:53 +0000    25092 byte  dist/katex.css</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-07 04:55:53 +0000   307749 byte  dist/katex.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-07 04:55:53 +0000    21339 byte  dist/katex.min.css</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-07 04:55:53 +0000   126576 byte  dist/katex.min.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-07 04:55:53 +0000     2222 byte  katex.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-07 04:55:53 +0000     2891 byte  package.json</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-07 04:55:53 +0000     3899 byte  src/Lexer.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-07 04:55:53 +0000     2178 byte  src/MacroExpander.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-07 04:55:53 +0000     4917 byte  src/Options.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-07 04:55:53 +0000     2045 byte  src/ParseError.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-07 04:55:53 +0000    28094 byte  src/Parser.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-07 04:55:53 +0000      823 byte  src/Settings.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-07 04:55:53 +0000     3737 byte  src/Style.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-07 04:55:53 +0000    15414 byte  src/buildCommon.js</tspan>
+<tspan x="10" y="1626">100.  2017-04-07 04:55:53 +0000    54633 byte  src/buildHTML.js</tspan>
+<tspan x="10" y="1642">101.  2017-04-07 04:55:53 +0000    16094 byte  src/buildMathML.js</tspan>
+<tspan x="10" y="1658">102.  2017-04-07 04:55:53 +0000     1088 byte  src/buildTree.js</tspan>
+<tspan x="10" y="1674">103.  2017-04-07 04:55:53 +0000    19394 byte  src/delimiter.js</tspan>
+<tspan x="10" y="1690">104.  2017-04-07 04:55:53 +0000     9339 byte  src/domTree.js</tspan>
+<tspan x="10" y="1706">105.  2017-04-07 04:55:53 +0000     6821 byte  src/environments.js</tspan>
+<tspan x="10" y="1722">106.  2017-04-07 04:55:53 +0000     7250 byte  src/fontMetrics.js</tspan>
+<tspan x="10" y="1738">107.  2017-04-07 04:55:53 +0000    67265 byte  src/fontMetricsData.js</tspan>
+<tspan x="10" y="1754">108.  2017-04-07 04:55:53 +0000    19092 byte  src/functions.js</tspan>
+<tspan x="10" y="1770">109.  2017-04-07 04:55:53 +0000     2693 byte  src/mathMLTree.js</tspan>
+<tspan x="10" y="1786">110.  2017-04-07 04:55:53 +0000     1260 byte  src/parseData.js</tspan>
+<tspan x="10" y="1802">111.  2017-04-07 04:55:53 +0000      531 byte  src/parseTree.js</tspan>
+<tspan x="10" y="1818">112.  2017-04-07 04:55:53 +0000    31996 byte  src/symbols.js</tspan>
+<tspan x="10" y="1834">113.  2017-04-07 04:55:53 +0000      422 byte  src/unicodeRegexes.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-07 04:55:53 +0000     2328 byte  src/utils.js</tspan>
 </text>
 </svg>
