@@ -3944,21 +3944,21 @@ if (styles) {
     return -1;
 }</pre></li>
     <li>example usage<pre class="apidocCodePre">...
- */
-Parser.prototype.parseExpression = function(breakOnInfix, breakOnTokenText) {
-var body = [];
-// Keep adding atoms to the body until we can&#x27;t parse any more atoms (either
-// we reached the end, a }, or a \right)
-while (true) {
-    var lex = this.nextToken;
-    if (endOfExpression.<span class="apidocCodeKeywordSpan">indexOf</span>(lex.text) !== -1) {
-        break;
-    }
-    if (breakOnTokenText &#x26;&#x26; lex.text === breakOnTokenText) {
-        break;
-    }
-    if (breakOnInfix &#x26;&#x26; functions[lex.text] &#x26;&#x26; functions[lex.text].infix) {
-        break;
+
+var katex = require(&#x22;./&#x22;);
+var input = &#x22;&#x22;;
+
+// Skip the first two args, which are just &#x22;node&#x22; and &#x22;cli.js&#x22;
+var args = process.argv.slice(2);
+
+if (args.<span class="apidocCodeKeywordSpan">indexOf</span>(&#x22;--help&#x22;) !== -1) {
+console.log(process.argv[0] + &#x22; &#x22; + process.argv[1] +
+            &#x22; [ --help ]&#x22; +
+            &#x22; [ --display-mode ]&#x22;);
+
+console.log(&#x22;\n&#x22; +
+            &#x22;Options:&#x22;);
+console.log(&#x22;  --help            Display this help message&#x22;);
 ...</pre></li>
     </ul>
 
