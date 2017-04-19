@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "katex",
-    "description": "api documentation for [katex (v0.7.1)](https://github.com/Khan/KaTeX#readme) [![npm package](https://img.shields.io/npm/v/npmdoc-katex.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-katex) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-katex.svg)](https://travis-ci.org/npmdoc/node-npmdoc-katex)",
+    "description": "#### api documentation for  [katex (v0.7.1)](https://github.com/Khan/KaTeX#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-katex.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-katex) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-katex.svg)](https://travis-ci.org/npmdoc/node-npmdoc-katex)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "katex": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.1"
+    "version": "0.0.2"
 }
